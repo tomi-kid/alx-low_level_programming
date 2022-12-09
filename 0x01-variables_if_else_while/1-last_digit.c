@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-   * main - This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+   * main - This is the main function
    * The string Last digit of n
    * Return: 0
    */
@@ -29,4 +29,3 @@ int main(void)
 	}
 	return (0);
 }
-
