@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * print_alphabet - used to print the lowercase followed by new line 10x
+  * print_alphabet_x10 - used to print the lowercase followed by new line 10x
   */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	char alphabet;
 	int loop = 0;
