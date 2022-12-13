@@ -1,13 +1,19 @@
-#include <stdio.h>
+#include <main.h>
 
-/*
-   * main - main function that displayh _puthcar
-   * Return: 0 (Sucess0)
-   */
+/**
+  * main - print _putchar
+  * Return: 0 (Sucess)
+  */
 
 int main(void)
 {
-	printf("_putchar");
-	
-	return 0;
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+
+	return (0);
 }
