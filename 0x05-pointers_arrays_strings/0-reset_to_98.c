@@ -1,9 +1,10 @@
-#include "main.h"
+#inclide "main.h"
 /**
- * rest_to_98 - used to reset value in pointer n
- * @n: used to replace in address n
+ * reset_to_98 - takes a pointer to a parameter and updates its value.
+ * @n: input integer.
+ * Return: no return.
  */
-void rest_to_98(int *n)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
