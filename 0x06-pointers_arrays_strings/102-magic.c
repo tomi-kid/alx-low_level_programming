@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ *main - the main function
+ *Return: 0 Always (SUCCESS)
+ */
 int main(void)
 {
 	int n;
